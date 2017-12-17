@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuldingSystem", "BuldingSystem\BuldingSystem.csproj", "{4B0F9F8C-BAB8-4D6F-A730-D844D24EA569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{30E622A1-E9B5-470A-A7F6-010264328796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0F9F8C-BAB8-4D6F-A730-D844D24EA569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0F9F8C-BAB8-4D6F-A730-D844D24EA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0F9F8C-BAB8-4D6F-A730-D844D24EA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0F9F8C-BAB8-4D6F-A730-D844D24EA569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E622A1-E9B5-470A-A7F6-010264328796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E622A1-E9B5-470A-A7F6-010264328796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E622A1-E9B5-470A-A7F6-010264328796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E622A1-E9B5-470A-A7F6-010264328796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BED116E4-E6F4-4BDF-B8BD-8E046A723CDE}
+	EndGlobalSection
+EndGlobal
